@@ -88,6 +88,7 @@
     "@stdlib/ndarray-base-dtype-char": "^0.2.2",
     "@stdlib/ndarray-base-dtype-desc": "^0.2.2",
     "@stdlib/ndarray-base-dtype2c": "^0.2.2",
+    "@stdlib/ndarray-base-dtypes2strings": "github:stdlib-js/ndarray-base-dtypes2strings#main",
     "@stdlib/ndarray-base-shape2strides": "^0.2.2",
     "@stdlib/ndarray-base-strides2offset": "^0.2.2",
     "@stdlib/ndarray-base-to-array": "^0.2.1",
